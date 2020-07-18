@@ -1,0 +1,16 @@
+					Pasta Principal
+						|
+						|
+			-------------------------------------------------
+			|			|			|
+		     Arvore 1		     Arvore 2		     Arvore 3
+			|			|			|
+		----------------         ----------------        ----------------
+		|	|      |	|	|	|	 |	|	|
+		0%     50%    100%      0%     50%     100%     0%     50%     100%
+		|	|	|	|	|	|	|	|	|
+	     largura largura largura largura largura largura  largura largura largura
+		|	|	|	|	|	|	|	|	|
+		|	|	|	|	|	|	|	|	|
+		|	|	|	|	|	|	|	|	|
+             Arquivos Arquivos Arqu  Arquivos Arquivos Arqu  Arquivos Arquivos Arqu 
